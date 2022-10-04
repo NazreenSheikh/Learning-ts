@@ -42,7 +42,7 @@ let employee1: {
 } = {
     firstName: 'Naaz',
     lastName: 'Sheikh',
-    age: 20,
+    age: 21,
 };
 // empty type {}
 let vacant: {} = {};
